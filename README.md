@@ -9,5 +9,5 @@ PROJECT :-
 difference between having a mask and not having a mask. This you can find in model.py file.
 
 2) Next we will try to load the same model and use it to predict the classification on the real time 
-faces visible infront of the camera and draw the bounding boxes with a label and score to identify if our model
-is working fine. This can be found in Detect-faces.py file.
+faces visible infront of the camera which are detected using a cascade classifier and draw the bounding boxes
+with a label and score to identify if our model is working fine. This can be found in Detect-faces.py file.
