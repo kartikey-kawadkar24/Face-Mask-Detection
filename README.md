@@ -10,4 +10,4 @@ difference between having a mask and not having a mask. This you can find in mod
 
 2) Next we will try to load the same model and use it to predict the classification on the real time 
 faces visible infront of the camera and draw the bounding boxes with a label and score to identify if our model
-is working fine.
+is working fine. This can be found in Detect-faces.py file.
